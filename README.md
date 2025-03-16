@@ -1,4 +1,5 @@
 ## Hi there 👋
+下面是Vid-sight的描述，如果想看服饰描述的任务，见https://github.com/prepikes/ClothesDescribe
 # 1、系统概述
 
 **1.1、系统简介**
